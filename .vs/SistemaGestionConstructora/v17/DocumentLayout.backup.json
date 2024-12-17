@@ -1,0 +1,511 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\empleados\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\empleados\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\empleados\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\asignaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\asignaciones\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\asignaciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\asignaciones\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\asignaciones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\asignaciones\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\asignaciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\asignaciones\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\models\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:models\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\proyectos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\proyectos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\proyectos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\proyectos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\proyectos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\proyectos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\views\\proyectos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:views\\proyectos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|c:\\users\\rtbri\\source\\repos\\sistemagestionconstructora\\sistemagestionconstructora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEA2FC06-C3D4-4BB2-B00B-FB16F856F08F}|SistemaGestionConstructora.csproj|solutionrelative:sistemagestionconstructora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:44:11.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T01:47:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:43:56.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T01:41:57.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:40:30.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:40:17.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Asignaciones\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Asignaciones\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Asignaciones\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Asignaciones\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:34:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Asignaciones\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Asignaciones\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Asignaciones\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Asignaciones\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:34:23.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Asignaciones\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Asignaciones\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Asignaciones\\Create.cshtml",
+              "RelativeToolTip": "Views\\Asignaciones\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:34:15.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Asignaciones\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Asignaciones\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Asignaciones\\Index.cshtml",
+              "RelativeToolTip": "Views\\Asignaciones\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:34:10.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Proyectos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Proyectos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Proyectos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:33:32.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Proyectos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Proyectos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Proyectos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:33:15.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Proyectos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Proyectos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Proyectos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:33:03.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Proyectos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proyectos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Proyectos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proyectos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:32:20.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Empleados\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empleados\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Empleados\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Empleados\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:30:38.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Empleados\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empleados\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Empleados\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Empleados\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:30:18.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Empleados\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empleados\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Empleados\\Create.cshtml",
+              "RelativeToolTip": "Views\\Empleados\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:29:19.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Views\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "Views\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T01:28:55.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AsignacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Controllers\\AsignacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AsignacionesController.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Controllers\\AsignacionesController.cs",
+              "RelativeToolTip": "Controllers\\AsignacionesController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv4cAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:27:01.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProyectosController.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Controllers\\ProyectosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProyectosController.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Controllers\\ProyectosController.cs",
+              "RelativeToolTip": "Controllers\\ProyectosController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:26:38.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:26:20.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SistemaGestionConstructora.csproj",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\SistemaGestionConstructora.csproj",
+              "RelativeDocumentMoniker": "SistemaGestionConstructora.csproj",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\SistemaGestionConstructora.csproj",
+              "RelativeToolTip": "SistemaGestionConstructora.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T01:21:42.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:42:17.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:42:00.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Models\\Asignacion.cs",
+              "RelativeDocumentMoniker": "Models\\Asignacion.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Models\\Asignacion.cs",
+              "RelativeToolTip": "Models\\Asignacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:40:52.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Models\\Proyecto.cs",
+              "RelativeDocumentMoniker": "Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Models\\Proyecto.cs",
+              "RelativeToolTip": "Models\\Proyecto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:38:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:37:53.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:36:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rtbri\\source\\repos\\SistemaGestionConstructora\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T00:29:01.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

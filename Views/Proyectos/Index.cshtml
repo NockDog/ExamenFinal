@@ -1,0 +1,44 @@
+﻿@model IEnumerable<SistemaGestionConstructora.Models.Proyecto>
+
+<h2>Lista de Proyectos</h2>
+
+<p>
+    <a asp-action="Create">Registrar Nuevo Proyecto</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreDescriptivo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaInicio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaFinalizacion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreDescriptivo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaInicio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaFinalizacion)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IDProyecto">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IDProyecto">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

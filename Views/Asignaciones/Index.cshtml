@@ -1,0 +1,47 @@
+﻿@model IEnumerable<SistemaGestionConstructora.Models.Asignacion>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de Asignaciones</h2>
+
+<p>
+    <a asp-action="Create">Asignar Empleado a Proyecto</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Empleado.NombreCompleto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Proyecto.NombreDescriptivo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaAsignacion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Empleado.NombreCompleto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Proyecto.NombreDescriptivo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FechaAsignacion)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IDAsignacion">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IDAsignacion">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
